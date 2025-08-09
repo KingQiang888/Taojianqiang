@@ -1,2 +1,5 @@
 print('This is a test file')
 print('AI隐患排查')
+print('1.隐患排查')
+print('2.图片上传')
+print('3.图片识别')
